@@ -1,0 +1,9 @@
+*.log
+*.exe
+*.bak*
+.idea/
+.vscode/
+/bin/
+/log
+/tool
+/unittest_cov/
